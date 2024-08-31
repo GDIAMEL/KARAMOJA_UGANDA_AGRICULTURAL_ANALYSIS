@@ -90,6 +90,11 @@ In my analysis there is a major difference base on the performance of maize and 
 3. Kabong is the leading district in reference to productivity and population which is at 2,131,662
 4. There is correlation for example in sorghum and maize yield per hectare when compared to Area
 
+# **CONCLUSION**
+Based on the analysis of crop yield, area, and production data across different districts and sub-counties, it is evident that there are significant disparities in agricultural productivity within the region. Certain areas, such as KAABONG, show potential for increased yield with optimized resource allocation and improved farming practices. Conversely, regions with consistently low yields could benefit from adopting alternative crop types or investing in sustainable farming techniques.
+
+The analysis highlights the need for targeted interventions that account for regional differences in soil quality, climate, and available resources. Implementing data-driven decision-making tools and integrating additional datasets (e.g., weather and soil) will provide more accurate insights and improve agricultural productivity in the region. Future work could focus on predictive modeling to forecast crop yields under different scenarios and to inform policy and resource allocation decisions.
+
 # **RECOMMENDATION**
 
 1. Optimized crop yield management by the farmers.
@@ -97,10 +102,7 @@ In my analysis there is a major difference base on the performance of maize and 
 3. Address disparities in crop production for higher yields.
 4. Encourage crop diversification that will enable income stabilization and reduce risks to be encountered by farmers.
 
-# **CONCLUSION**
-Based on the analysis of crop yield, area, and production data across different districts and sub-counties, it is evident that there are significant disparities in agricultural productivity within the region. Certain areas, such as KAABONG, show potential for increased yield with optimized resource allocation and improved farming practices. Conversely, regions with consistently low yields could benefit from adopting alternative crop types or investing in sustainable farming techniques.
 
-The analysis highlights the need for targeted interventions that account for regional differences in soil quality, climate, and available resources. Implementing data-driven decision-making tools and integrating additional datasets (e.g., weather and soil) will provide more accurate insights and improve agricultural productivity in the region. Future work could focus on predictive modeling to forecast crop yields under different scenarios and to inform policy and resource allocation decisions.
 
 # **FUTURE WORK AND DATA ENGINEERING**
 
