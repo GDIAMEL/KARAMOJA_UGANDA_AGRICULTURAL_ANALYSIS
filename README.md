@@ -116,6 +116,13 @@ Investment budget: this will help in giving personalized information on areas of
 
 For future engineering, I would like to do Matchine Learning models which classify districts and sub-counties based on their levels of procuction and yields.
 
+# LINKS
+
+TABLEAU DASHBOARD: https://public.tableau.com/views/KARAMOJAVISUALIZATIONANALYSIS/KARAMOJADASHBOARDANALYSIS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+TABLEAU STORY: https://public.tableau.com/views/KARAMOJAVISUALIZATIONANALYSIS/KARAMOJASTORY?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 # **LIBRARIES**
 
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
